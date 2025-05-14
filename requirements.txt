@@ -93,4 +93,4 @@ executing==2.2.0
 extract-msg==0.54.0
 fake-useragent==1.5.1
 fastapi==0.115.7
-opencv-python==4.8.1.78
+opencv-python-headless==4.8.1.78
