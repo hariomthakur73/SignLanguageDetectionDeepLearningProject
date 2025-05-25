@@ -3,7 +3,7 @@ import numpy as np
 import math
 
 # Initialize camera
-cap = cv2.VideoCapture(1)
+cap = cv2.VideoCapture(2)
 
 if not cap.isOpened():
     print("Error: Camera not detected")
