@@ -1,4 +1,5 @@
 # Essential dependencies for Python 3.9
+pip>=24.0
 absl-py>=2.2.1
 accelerate>=1.5.2
 aiofiles>=24.1.0
