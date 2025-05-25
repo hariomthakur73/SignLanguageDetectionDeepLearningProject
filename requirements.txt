@@ -46,4 +46,4 @@ duckduckgo_search>=7.3.2
 fastapi>=0.94.1
 opencv-python-headless>=4.6.0
 streamlit-webrtc
-ffmpeg
+ffmpegaltair>=5.5.0
