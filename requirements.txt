@@ -47,3 +47,8 @@ fastapi>=0.94.1
 ffmpeg-python>=0.2.0  # ffmpegaltair hata diya
 opencv-python-headless>=4.6.0
 streamlit>=1.20.0 
+streamlit==1.33.0
+tensorflow==2.14.0
+opencv-python==4.9.0.80
+numpy==1.24.3
+Pillow==10.2.0
